@@ -1,3 +1,1 @@
-print'welcome'
-print'hello'
-print'AKHIL'
+print"welcome"
